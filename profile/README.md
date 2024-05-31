@@ -1,3 +1,4 @@
 
 # Current simplified workflow diagram
-![diagram-export-28 5 2024-13_05_06](https://github.com/GameXTrade/.github/assets/150204147/afe0841a-3ef7-4273-b0bc-9f8ac95ee902)
+![diagram-export-31 5 2024-16_44_22](https://github.com/GameXTrade/.github/assets/150204147/30d3182c-a7ad-4fa4-9bc8-7ec7487d3ab7)
+
